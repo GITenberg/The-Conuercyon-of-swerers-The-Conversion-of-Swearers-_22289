@@ -1,0 +1,27 @@
+_repo: The-Conuercyon-of-swerers-The-Conversion-of-Swearers-_22289
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawes, Stephen
+    deathdate: 1523
+    gutenberg_agent_id: '25220'
+    url: http://www.gutenberg.org/2009/agents/25220
+description: ''
+gutenberg_issued: '2007-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: 'The Conuercyon of swerers
+
+  (The Conversion of Swearers)'
+url: http://www.gutenberg.org/ebooks/22289
